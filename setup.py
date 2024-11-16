@@ -6,7 +6,7 @@ setup(
     description="my lib is power",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
-    url="https://github.com/loverelyas/spider",
+    url="https://github.com",
     author="spiderXR7",
     author_email="spiderxr7@gmail.com",
     license="MIT",
