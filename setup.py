@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="spider_ai",
+    name="spider_XR",
     version="0.5", 
     description="my lib is power",
     long_description=open("README.md").read(),
